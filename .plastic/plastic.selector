@@ -1,0 +1,4 @@
+repository "TurnStrategyTestGame@imatsi@cloud"
+  path "/"
+    br "/main"
+    co "/main"
